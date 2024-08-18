@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-This is [Matin Rouhani], a mining engineering MSc graduate from Amirkabir University of Technology (Tehran Polytechnic). I specialize in numerical modeling and soft computing techniques to design cutting tools and mechanized excavations. 
+This is **Matin Rouhani**, a mining engineering MSc graduate (with a full mark GPA :) ) from Amirkabir University of Technology (Tehran Polytechnic). I specialize in numerical modeling and soft computing techniques to design cutting tools and mechanized excavations. 
 
 After I graduated on September 12th, I started working as an independent researcher on a variety of subjects. I attempt to discover relationships between relevant factors and simplify the more complex themes of mechanized excavations.
 
