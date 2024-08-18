@@ -33,24 +33,24 @@ Work experience
   June 2023 - December 2023
   Research Assistant, Department of Mining Engineering
   The following topics have been covered during my R.A. in the mining engineering Dept. of AUT:
-o	Constitutive model calibration for the low-strength rocks and soils (softgrounds).
-o	Structural analysis and support system design for the squeezing-involved mines.
+  	Constitutive model calibration for the low-strength rocks and soils (softgrounds).
+  	Structural analysis and support system design for the squeezing-involved mines.
 
   Methodology:
-o	Numerical modeling (using LS-DYNA and FLAC softwares)
+*	Numerical modeling (using LS-DYNA and FLAC softwares)
 
 
 * University of Zanjan, Zanjan, Iran
   March 2020 - June 2021
   Research Assistant, Department of Mining Engineering
-o	Participated as an R.A., and also as a internship trainee.
+  	Participated as an R.A., and also as a internship trainee.
 
   The following topics have been covered during my R.A. in the mining engineering Dept. of the University of Zanjan:
-o	Fiber reinforced concretes; different mixing plans investigation
-o	Physical property tests, including wetting and drying tests, Schmidt hammer tests, uniaxial compressive tests, triaxial compressive tests, Brazilian tests, and point-load index testing, were conducted on the designed fiber-reinforced concrete specimens.
+	  Fiber reinforced concretes; different mixing plans investigation
+  	Physical property tests, including wetting and drying tests, Schmidt hammer tests, uniaxial compressive tests, triaxial compressive tests, Brazilian tests, and point-load index testing, were conducted on the designed fiber-reinforced concrete specimens.
 
   Methodology:
-o	Laboratoary investigations.
+*	Laboratoary investigations.
 
   
 Skills
