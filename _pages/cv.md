@@ -74,7 +74,7 @@ Publications
 Journal Publications
 ======
 
-* Rouhani, M. M., Farrokh, E., “Chisel bits Cutting force estimation using XGBoost and different optimization algorithms.” Computers and Geotechnics, 172, 106465, 2024. DOI: 10.1016/j.compgeo.2024.106465
+* Rouhani, M. M., Farrokh, E., “<a href="{{https://doi.org/10.1016/j.compgeo.2024.106465}}">Chisel bits Cutting force estimation using XGBoost and different optimization algorithms” Computers and Geotechnics, 172, 106465, 2024. DOI: 10.1016/j.compgeo.2024.106465
 
 * Samimi Namin, F., Rouhani, M. M., A review: Applications of fuzzy theory in rock Engineering,” Indian Geotechnical Journal, 2024. DOI: 10.1007/s40098-024-00910-z
 
