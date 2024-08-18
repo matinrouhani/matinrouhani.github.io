@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me- Academic Page"
+title: "About me, A Geek!"
 author_profile: true
 redirect_from: 
   - /about/
