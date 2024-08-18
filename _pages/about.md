@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# ![intro](https://github.com/matinrouhani/matinrouhani.github.io/blob/master/images/51.jpeg?raw=true)
+
 ![vid2](https://github.com/user-attachments/assets/aabb8272-5a44-45e7-8d1f-c285f5adcea0)
 
 
