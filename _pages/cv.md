@@ -24,10 +24,15 @@ Education
 
 * **Bsc.	University of Zanjan, Zanjan**, Iran.
   September 2017 - August 2021
+  
   Department of Mining Engineering,
+  
   **Mining Engineering**,
+  
   GPA: 3.68/4.0 (17.49/20.0)
-  GPA for the last 80 credit hours: 3.85/4.0 (18.25/20.0) 
+  
+  GPA for the last 80 credit hours: 3.85/4.0 (18.25/20.0)
+  
   Final Project Title: “Investigating the potential of using bacteria in fiber-reinforced shotcrete”
 
 
@@ -35,8 +40,11 @@ Work experience
 ======
 * **Amirkabir University of Technology**, Tehran, Iran
   _June 2023 - December 2023_
+  
   Research Assistant, Department of Mining Engineering
+  
   The following topics have been covered during my R.A. in the mining engineering Dept. of AUT:
+  
   	Constitutive model calibration for the low-strength rocks and soils (softgrounds).
   	Structural analysis and support system design for the squeezing-involved mines.
 
@@ -46,12 +54,14 @@ Work experience
 
 * **University of Zanjan**, Zanjan, Iran
   _March 2020 - June 2021_
+  
   Research Assistant, Department of Mining Engineering
+  
   	Participated as an R.A., and also as a internship trainee.
 
   The following topics have been covered during my R.A. in the mining engineering Dept. of the University of Zanjan:
-	  Fiber reinforced concretes; different mixing plans investigation
-  	Physical property tests, including wetting and drying tests, Schmidt hammer tests, uniaxial compressive tests, triaxial compressive tests, Brazilian tests, and point-load index testing, were conducted on the designed fiber-reinforced concrete specimens.
+
+  Fiber reinforced concretes; different mixing plans investigation, Physical property tests, including wetting and drying tests, Schmidt hammer tests, uniaxial compressive tests, triaxial compressive tests, Brazilian tests, and point-load index testing, were conducted on the designed fiber-reinforced concrete specimens.
 
   Methodology:
 *	Laboratoary investigations.
