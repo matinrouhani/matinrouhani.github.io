@@ -36,36 +36,6 @@ Education
   Final Project Title: “Investigating the potential of using bacteria in fiber-reinforced shotcrete”
 
 
-Work experience
-======
-* **Amirkabir University of Technology**, Tehran, Iran
-  _June 2023 - December 2023_
-  
-  Research Assistant, Department of Mining Engineering
-  
-  The following topics have been covered during my R.A. in the mining engineering Dept. of AUT:
-  
-  	Constitutive model calibration for the low-strength rocks and soils (softgrounds).
-  	Structural analysis and support system design for the squeezing-involved mines.
-
-  Methodology:
-*	Numerical modeling (using LS-DYNA and FLAC softwares)
-
-
-* **University of Zanjan**, Zanjan, Iran
-  _March 2020 - June 2021_
-  
-  Research Assistant, Department of Mining Engineering
-  
-  	Participated as an R.A., and also as a internship trainee.
-
-  The following topics have been covered during my R.A. in the mining engineering Dept. of the University of Zanjan:
-
-  Fiber reinforced concretes; different mixing plans investigation, Physical property tests, including wetting and drying tests, Schmidt hammer tests, uniaxial compressive tests, triaxial compressive tests, Brazilian tests, and point-load index testing, were conducted on the designed fiber-reinforced concrete specimens.
-
-  Methodology:
-*	Laboratoary investigations.
-
   
 Skills
 ======
@@ -106,8 +76,38 @@ Peer-Reviewed Conference Papers
  
 * Heidari, **M., Rouhani, M. M.**, Sepehri, F., “Investigating the Relationship between Physical and Mechanical Properties of Concrete Coating on Waste Accumulation” 39 th National Congress and 4th International Congress of Earth Sciences, 2020.
 
+
+Research Experience
+======
+* **Amirkabir University of Technology**, Tehran, Iran
+  _June 2023 - December 2023_
   
-Teaching
+  Research Assistant, Department of Mining Engineering
+  
+  The following topics have been covered during my R.A. in the mining engineering Dept. of AUT:
+  
+  	Constitutive model calibration for the low-strength rocks and soils (softgrounds).
+  	Structural analysis and support system design for the squeezing-involved mines.
+
+  Methodology:
+*	Numerical modeling (using LS-DYNA and FLAC softwares)
+
+
+* **University of Zanjan**, Zanjan, Iran
+  _March 2020 - June 2021_
+  
+  Research Assistant, Department of Mining Engineering
+  
+  	Participated as an R.A., and also as a internship trainee.
+
+  The following topics have been covered during my R.A. in the mining engineering Dept. of the University of Zanjan:
+
+  Fiber reinforced concretes; different mixing plans investigation, Physical property tests, including wetting and drying tests, Schmidt hammer tests, uniaxial compressive tests, triaxial compressive tests, Brazilian tests, and point-load index testing, were conducted on the designed fiber-reinforced concrete specimens.
+
+  Methodology:
+*	Laboratoary investigations.
+  
+Teaching Experience
 ======
 
 * **Statics**, University of Zanjan, Zanjan, Iran, September 2018- January 2019
