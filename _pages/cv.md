@@ -65,9 +65,33 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+{% if site.author.googlescholar %}
+  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+{% endif %}
+
+{% include base_path %}
+
+Journal Publications
+======
+
+* Rouhani, M. M., Farrokh, E., “Chisel bits Cutting force estimation using XGBoost and different optimization algorithms.” Computers and Geotechnics, 172, 106465, 2024. DOI: 10.1016/j.compgeo.2024.106465
+
+* Samimi Namin, F., Rouhani, M. M., A review: Applications of fuzzy theory in rock Engineering,” Indian Geotechnical Journal, 2024. DOI: 10.1007/s40098-024-00910-z
+
+* Rouhani, M. M., Samimi Namin, F., “Investigate the potential of using fuzzy similarity in decision making under uncertainty for mining projects,” Resources Policy, 86, 104087, 2023. DOI:  10.1016/j.resourpol.2023.104087
+
+* Amjadi, R., Samimi Namin, F., Chakeri, H., Rouhani, M. M., “Evaluation of the effect of injection pressure on Surface Settlement in Excavation with Earth Pressure Balanced Shield Machine ” Journal of Tunneling and Underground Space Engineering, 10(2), 167-182, 2022. DOI: 10.22044/TUSE.2022.11221.1428
+
+Peer-Reviewed Conference Papers
+======
+* Rouhani, M. M., Farrokh, E., “New Analytical Methods for Estimating Cutting Forces in Drag Bits,” 9th Iranian Rock Mechanics Conference, 2024.
+
+* Dolatshahi, A., Rouhani, M. M., Ramezani, E., “Effect of carbonation weathering cycle on compressive strength of concretes containing microsilica and zeolite powder,” 6th International Conference on Researches in Science and Engineering, 2021.
+
+* Dolatshahi, A., Ramezani, E., Rouhani, M. M. “Effect of Wetting-Drying Cycle on Point Load Index of Concrete Containing Zeolite Powder,” 6th International Conference on Researches in Science and Engineering. 2021.
+ 
+* Heidari, M., Rouhani, M. M., Sepehri, F., “nvestigating the Relationship between Physical and Mechanical Properties of Concrete Coating on Waste Accumulation” 39 th National Congress and 4th International Congress of Earth Sciences, 2020.
+
   
 Teaching
 ======
