@@ -13,9 +13,13 @@ Education
 ======
 * **Msc.	Amirkabir University of Technology**, Tehran, Iran.                                  
   August 2021–September 2023
+  
   Department of Mining Engineering,
+  
   **Mining Engineering**- Tunneling and Underground Spaces Engineering,
+  
   GPA: 4.0/4.0 (18.63/20.0)
+  
   Thesis: “Comparative study of the results of existing models and numerical modeling for the forces applied to conventional TBM cutting tools in soft grounds”
 
 * **Bsc.	University of Zanjan, Zanjan**, Iran.
