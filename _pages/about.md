@@ -6,8 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![intro](https://github.com/matinrouhani/matinrouhani.github.io/blob/master/images/51.jpeg?raw=true)
-
+#![intro](https://github.com/matinrouhani/matinrouhani.github.io/blob/master/images/51.jpeg?raw=true)
+![intro](https://github.com/matinrouhani/matinrouhani.github.io/blob/master/images/vid1.mp4?raw=true)
 
 This is **Matin Rouhani**, a mining engineering MSc graduate (with a full mark GPA :) ) from Amirkabir University of Technology (Tehran Polytechnic). I am originally from Zanjan, Iran. I specialize in numerical modeling and soft computing techniques to design cutting tools and mechanized excavations. 
 
