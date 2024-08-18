@@ -6,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<br/><img src='/images/51.jpeg'
 ![intro](https://github.com/matinrouhani/matinrouhani.github.io/blob/master/images/51.jpeg?raw=true)
 
 
