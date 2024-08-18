@@ -96,8 +96,6 @@ Peer-Reviewed Conference Papers
 Teaching
 ======
 
-* Teaching Assistant, Department of Mining Engineering, University of Zanjan, Zanjan, Iran
-
-  Statics, September 2018- January 2019
-  Fluid Mechanics, September 2021- January 2022
+* Statics, University of Zanjan, Zanjan, Iran, September 2018- January 2019
+* Fluid Mechanics, University of Zanjan, Zanjan, Iran, September 2021- January 2022
   
