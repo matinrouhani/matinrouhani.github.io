@@ -13,6 +13,6 @@ After I graduated on September 12th, I started working as an independent researc
 
 My hobbies when I am not researching include photography and music. When I'm working, I like to listen to classical jazz. When I was younger, I also played water polo, but I gave that up to concentrate on my work as a scholar.
 
-I've devoted my entire life to science, and I firmly think that if I work hard, I can significantly improve and ease the lives of others. As they say, "hard work beats talent when talent does not work hard".
+I've devoted my entire life to science, and I firmly think that if I work hard, I can significantly improve and ease the lives of others. As they say, "_Hard work beats talent when talent does not work hard_".
 
 Any scholarly cooperation is welcome. Do not hesitate to get in touch with me if you have any ideas or interests.
