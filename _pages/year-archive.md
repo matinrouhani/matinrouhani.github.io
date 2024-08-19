@@ -73,4 +73,25 @@ MSc Thesis: Comparative study of the results of existing models and numerical mo
 Over the years, and by increasing the demand for building mechanized tunnels, designing the Tunnel Boring Machines (TBM) become increasingly sensitive. Engineers and scientists are increasingly interested in optimizing the layout of cutterheads to reduce investment and maintenance expenses. One of the vital factors for this purpose is the geometry of the dragbit. In other words, by optimizing the geometry parameters of dragbits, it is possible to lower investment and maintenance costs. On the other hand, cutting force is declared the most important factor affected by dragbits geometry and rocks strengthen parameters. The first step of this study is to review the current methods used for estimating the cutting force. Secondly, numerical models were made to investigate the effect of each parameter on the cutting force. In the very next step, a comparison study was done between the results of the numerical models' cutting force and the existing forces. Thus, Rake angle, Clearance angle, width, bezel width, attack angle, and tilt angle were studied in this thesis. The results show that the cutting force is reduced by increasing the rake, clearance, attack, and tilt angles; However, the cutting force registered a significant increase when the width and bezel width are increased. Compared to the previous models, it was observed that although these methods can take into account the changes in the width, rake, and clearance angles, they are not able to show the sensitivity of force to other geometric parameters. In addition, the supplementary research indicates that the Evans, Nishimatsu, and CEIT models provided similar results to the numerical models in rock. The tear and shear types showed noteworthy outcomes compared to the numerical model.
 
 
+Class Project: FEM coding with Matlab (_for Numerical Methods in Geomechanics course_)
+==
+![image](https://github.com/user-attachments/assets/b3a77223-f58c-4bb9-95f2-c33e06fc9958)
+![image](https://github.com/user-attachments/assets/47115c49-7788-409a-aa4c-b24df45bcf7b)
 
+The final project of this course involved the coding of a tunnel and ground situation using FEM and the verification of the coding by modeling the tunnel using UDEC and FLAC 2D.
+
+Tools: MATLAB, FLAC 2D, UDEC.
+
+
+Class Project: NATM tunnels Final lining design (_for Steel and Concrete Structures course_)
+==
+![image](https://github.com/user-attachments/assets/6b4dad4d-e89e-4714-bb4d-af360eaf2271)
+![image](https://github.com/user-attachments/assets/aec893e9-a776-45f1-85c3-75ed3551692b)
+![image](https://github.com/user-attachments/assets/f206b0b7-422a-4052-aabd-c30eace8eea3)
+![image](https://github.com/user-attachments/assets/072f66b3-c711-4c2c-8a25-afc8afcde33a)
+![image](https://github.com/user-attachments/assets/08f3b7a3-c78f-4b78-abfa-928524da0f97)
+![image](https://github.com/user-attachments/assets/dfb75767-02b9-4006-b849-f11cfaa7d7ee)
+
+The final project of this course involves designing an optimal ”steel reinforced concrete support system” for a tunnel using SAP2000 and verifying the design using FLAC 2D and PLAXIS 3D.
+
+Tools: FLAC 2D, SAP2000, PLAXIS 3D.
