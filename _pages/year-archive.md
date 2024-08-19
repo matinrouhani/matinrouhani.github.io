@@ -45,13 +45,13 @@ Evaluation of the effect of injection pressure on Surface Settlement in Excavati
 
 **Abstract**
 
-**Summary**
+* **Summary**
 Earth Pressure Balance Machines (EPB) were used to excavate the Tabriz metro line 2. A critical section of the tunnel Has modeled in this study. The model has been verified by the monitoring data using the installed instruments on site. In addition, some crucial operational parameters of the Earth Pressure Balance Tunnel Boring Machine (EPBM) have also been studied to determine their effect on ground deformation and subsidence during tunnel excavation. 
-**Introduction**
+* **Introduction**
 Tunneling in shallow urban areas and on soft ground is always associated with risks that can have unpleasant consequences if ignored. Tunnel excavation removes a mass of soil and rock, leading to significant changes in strength around them, and causing the Earth to move. The tunnel has been excavated in a shallow soil environment; these effects will transfer to the ground. An earth pressure balance shield (EPB) is one of the most suitable methods to control the pressure in the tunnel front, decreasing the surface subsidence by controlling this pressure.
-**Methodology and Approaches**
+* **Methodology and Approaches**
 The study applied three-dimensional (3D) numerical modeling to study the effects of TBM-EPB operating parameters on the deformation and subsidence of soft soils using FlAC3D software.
-**Results and Conclusions**
+* **Results and Conclusions**
 According to the obtained numerical results, it seems that these slurry injection pressures did not have a significant effect on the improvement of stresses. The study investigated the influence of overburden pressure, adhesion, density, and diameter on injection pressure. The results indicate that decreasing or increasing the injection pressure in environments with different parameters has little effect on vertical displacement.
 To investigate how geomechanical factors of the environment influence deformation of the Earth's surface, models were constructed by keeping all the parameters constant according to which, with increasing adhesion and internal friction angle, the rate of subsidence decreases. While increasing the specific gravity of the soil, the amount of vertical displacements increases.
 
