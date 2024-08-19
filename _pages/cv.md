@@ -112,4 +112,14 @@ Teaching Experience
 
 * **Statics**, University of Zanjan, Zanjan, Iran, September 2018- January 2019
 * **Fluid Mechanics**, University of Zanjan, Zanjan, Iran, September 2021- January 2022
-  
+
+Language
+======  
+**IELTS**
+
+* Overall	7.5
+* Listening	8.0
+* Reading	7.5
+* Speaking	7.5
+* Writing 6.5
+
