@@ -16,7 +16,7 @@ Education
   
   Department of Mining Engineering,
   
-  **Mining Engineering**- Tunneling and Underground Spaces Engineering,
+  **Mining Engineering**,
   
   GPA: 4.0/4.0 (18.63/20.0)
   
