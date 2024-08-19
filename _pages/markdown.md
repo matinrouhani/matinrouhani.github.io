@@ -1,4 +1,4 @@
-![IMG_8341](https://github.com/user-attachments/assets/5052284d-370b-4bce-898d-3487d36b4331)---
+---
 permalink: /markdown/
 title: "Aesthetic"
 author_profile: true
@@ -31,7 +31,7 @@ _Bike in Iranian Culture_
 
 _Masouleh_
 ==
-
+![IMG_8341](https://github.com/user-attachments/assets/5052284d-370b-4bce-898d-3487d36b4331)
 
 
 
