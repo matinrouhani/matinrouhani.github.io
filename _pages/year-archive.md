@@ -21,7 +21,7 @@ The design and selection of tools for mechanized excavations is a crucial topic 
 
 <a href="https://doi.org/10.1016/j.compgeo.2024.106465">You can see more here</a>
 
-<a href="[https://doi.org/10.1016/j.compgeo.2024.106465](https://ct.moreover.com/?a=54440969586&p=1gw&v=1&x=0AQlYhCss01awpBDVvdwRQ)"> also, it was mentioned in Computer News Today</a>
+also, it was mentioned in <a href="https://ct.moreover.com/?a=54440969586&p=1gw&v=1&x=0AQlYhCss01awpBDVvdwRQ"> Computer News Today</a>
 
 A Review: Applications of Fuzzy Theory in Rock Engineering
 ==
