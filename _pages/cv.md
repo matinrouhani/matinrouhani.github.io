@@ -74,7 +74,7 @@ Peer-Reviewed Conference Papers
 
 * Dolatshahi, A., Ramezani, E., **Rouhani, M. M.** “Effect of Wetting-Drying Cycle on Point Load Index of Concrete Containing Zeolite Powder,” 6th International Conference on Researches in Science and Engineering. 2021.
  
-* Heidari, **M., Rouhani, M. M.**, Sepehri, F., “Investigating the Relationship between Physical and Mechanical Properties of Concrete Coating on Waste Accumulation” 39 th National Congress and 4th International Congress of Earth Sciences, 2020.
+* Heidari, **M., Rouhani, M. M.**, Sepehri, F., “Investigating the Relationship between Physical and Mechanical Properties of Concrete Coating on Waste Accumulation” 39th National Congress and 4th International Congress of Earth Sciences, 2020.
 
 
 Research Experience
@@ -82,15 +82,16 @@ Research Experience
 * **Amirkabir University of Technology**, Tehran, Iran
   _June 2023 - December 2023_
   
-  Research Assistant, Department of Mining Engineering
+  Department of Mining Engineering
   
-  The following topics have been covered during my R.A. in the mining engineering Dept. of AUT:
+  The following topics have been covered during my study in the mining engineering Dept. of AUT:
   
-  	Constitutive model calibration for the low-strength rocks and soils (softgrounds).
+  	Constitutive model calibration for the low-strength rocks and soils (softgrounds)(Initial part of MSc Thesis).
+    Designing cutting tools and investigating the effect of cutter geometry on applied forces (MSc Thesis).
   	Structural analysis and support system design for the squeezing-involved mines.
 
   Methodology:
-*	Numerical modeling (using LS-DYNA and FLAC softwares)
+*	Numerical modeling (using LS-DYNA and FLAC software)
 
 
 * **University of Zanjan**, Zanjan, Iran
@@ -98,7 +99,7 @@ Research Experience
   
   Research Assistant, Department of Mining Engineering
   
-  	Participated as an R.A., and also as a internship trainee.
+  	Participated as an R.A., and also as an internship trainee.
 
   The following topics have been covered during my R.A. in the mining engineering Dept. of the University of Zanjan:
 
@@ -107,11 +108,6 @@ Research Experience
   Methodology:
 *	Laboratoary investigations.
   
-Teaching Experience
-======
-
-* **Statics**, University of Zanjan, Zanjan, Iran, September 2018- January 2019
-* **Fluid Mechanics**, University of Zanjan, Zanjan, Iran, September 2021- January 2022
 
 Language
 ======  
