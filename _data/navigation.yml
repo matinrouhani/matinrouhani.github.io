@@ -13,8 +13,8 @@ main:
   - title: "Projects"
     url: /year-archive/
 
-  - title: "Teaching"
-    url: /teaching/    
+#  - title: "Teaching"
+#    url: /teaching/    
     
 #  - title: "Portfolio"
 #    url: /portfolio/
