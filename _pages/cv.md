@@ -79,20 +79,6 @@ Peer-Reviewed Conference Papers
 
 Research Experience
 ======
-* **Amirkabir University of Technology**, Tehran, Iran
-  _June 2023 - December 2023_
-  
-  Department of Mining Engineering
-  
-  The following topics have been covered during my study in the mining engineering Dept. of AUT:
-  
-  	Constitutive model calibration for the low-strength rocks and soils (softgrounds)(Initial part of MSc Thesis).
-    Designing cutting tools and investigating the effect of cutter geometry on applied forces (MSc Thesis).
-  	Structural analysis and support system design for the squeezing-involved mines.
-
-  Methodology:
-*	Numerical modeling (using LS-DYNA and FLAC software)
-
 
 * **University of Zanjan**, Zanjan, Iran
   _March 2020 - June 2021_
