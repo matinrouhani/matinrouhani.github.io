@@ -14,7 +14,7 @@ I am Matin Rouhani, a mining engineering MSc graduate (with a full mark GPA :) )
 
 After graduating, I started working as an independent researcher on various subjects. I attempt to discover relationships between relevant factors and simplify the more complex themes of mechanized excavations.
 
-I have **five journal publications** and **four conference publications**. Some articles are **under review**, and I am constantly **working on new ones**.
+I have **six journal publications** and **four conference publications**. Some articles are **under review**, and I am constantly **working on new ones**.
 
 Additionally, I'm interested in the following topics: 
 *  predicting TBM performance
