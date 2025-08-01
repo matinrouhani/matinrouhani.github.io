@@ -14,12 +14,13 @@ I am Matin Rouhani, a mining engineering MSc graduate (with a full mark GPA :) )
 
 After graduating, I started working as an independent researcher on various subjects. I attempt to discover relationships between relevant factors and simplify the more complex themes of mechanized excavations.
 
-I have **six journal publications** and **four conference publications**. Some articles are **under review**, and I am constantly **working on new ones**.
+I have **8 journal publications** and **four conference publications**. Some articles are **under review**, and I am constantly **working on new ones**.
 
 Additionally, I'm interested in the following topics: 
-*  predicting TBM performance
-*  predicting cutter wear
-*  designing cutterhead layouts
+*  predicting TBM performance.
+*  predicting cutter wear and performance.
+*  designing cutterhead layouts.
 *  designing cutting tools.
+*  Investigating Rock Properties.
 
 Any scholarly cooperation is welcome. Do not hesitate to get in touch with me if you have any ideas or interests.
